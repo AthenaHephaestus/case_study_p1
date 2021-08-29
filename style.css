@@ -1,0 +1,17 @@
+body
+{
+    font-family: 'Special ELite', cursive;
+    background: lightgreen;
+}
+
+ol {
+    font-size: 20px;
+}
+
+img{
+    height: 90px;
+    width: 210px;
+}
+li{
+    background-color: lightskyblue
+}
